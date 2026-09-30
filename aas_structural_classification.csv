@@ -1,0 +1,64 @@
+compound,primary_class,a17,nor19,d1,d9_11,hetero,halo,cmod,o7,nat,notes
+testosterone,NAT,0,0,0,0,0,0,0,0,1,referencia androgénica
+epitestosterone,NAT,0,0,0,0,0,0,0,0,1,17α-epímero de testosterona
+androstanolone,NAT,0,0,0,0,0,0,0,0,1,"DHT, 5α-reducido"
+androstenedione,NAT,0,0,0,0,0,0,0,0,1,prohormona Δ4-3-keto
+androstenediol,NAT,0,0,0,0,0,0,0,0,1,prohormona
+4-androstenediol,NAT,0,0,0,0,0,0,0,0,1,prohormona
+5-androstenedione,NAT,0,0,0,0,0,0,0,0,1,Δ5 isómero
+4-hydroxytestosterone,NAT,0,0,0,0,0,0,1,0,0,hidroxilación C4
+"androst-4-ene-3,11,17-trione",NAT,0,0,0,0,0,0,1,0,0,11-keto (adrenosterona)
+dhea,NAT,0,0,0,0,0,0,0,0,1,"prasterone, prohormona Δ5"
+7-keto-dhea,DHEA7,0,0,0,0,0,0,0,1,0,7-oxo
+7a-hydroxy-dhea,DHEA7,0,0,0,0,0,0,0,1,0,7α-OH
+7b-hydroxy-dhea,DHEA7,0,0,0,0,0,0,0,1,0,7β-OH
+1-testosterone,D1,0,0,1,0,0,0,0,0,0,Δ1 isómero de testosterona
+1-androstenedione,D1,0,0,1,0,0,0,0,0,0,prohormona Δ1
+1-androstenediol,D1,0,0,1,0,0,0,0,0,0,prohormona Δ1
+boldenone,D1,0,0,1,0,0,0,0,0,0,Δ1 19-nor? no: Δ1 androsteno
+boldione,D1,0,0,1,0,0,0,0,0,0,prohormona de boldenona
+nandrolone,N19,0,1,0,0,0,0,0,0,0,19-nor referencia
+19-norandrostenedione,N19,0,1,0,0,0,0,0,0,0,prohormona 19-nor
+19-norandrostenediol,N19,0,1,0,0,0,0,0,0,0,prohormona 19-nor
+bolandiol,N19,0,1,0,0,0,0,0,0,0,19-nor prohormona
+trenbolone,N19,0,1,0,1,0,0,0,0,0,"19-nor Δ9,11"
+norclostebol,N19,0,1,0,0,0,1,0,0,0,4-Cl 19-nor
+stenbolone,N19,0,1,0,0,0,0,1,0,0,2-Me 19-nor
+methyltestosterone,A17,1,0,0,0,0,0,0,0,0,referencia 17α-metil
+methandriol,A17,1,0,0,0,0,0,0,0,0,17α-metil androstenediol
+oxymesterone,A17,1,0,0,0,0,0,0,0,0,4-OH 17α-metil
+oxymetholone,A17,1,0,0,0,0,0,0,0,0,2-hidroximetileno
+oxandrolone,A17,1,0,0,0,1,0,0,0,0,2-oxa (heteroátomo O)
+fluoxymesterone,A17,1,0,0,0,0,1,0,0,0,"9α-F, 11β-OH"
+methylclostebol,A17,1,0,0,0,0,1,0,0,0,4-Cl
+dehydrochlormethyltestosterone,A17,1,0,1,0,0,1,0,0,0,4-Cl Δ1 (DHCMT)
+metandienone,A17,1,0,1,0,0,0,0,0,0,"Δ1,4 17α-metil"
+methyl-1-testosterone,A17,1,0,1,0,0,0,0,0,0,Δ1 17α-metil
+methyldienolone,A17,1,1,1,0,0,0,0,0,0,17α-metil Δ1
+methylnortestosterone,A17,1,1,0,0,0,0,0,0,0,17α-metil 19-nor
+metribolone,A17,1,1,0,1,0,0,0,0,0,"17α-metil 19-nor Δ9,11"
+mibolerone,A17,1,1,0,0,0,0,1,0,0,"7α,17α-diMe 19-nor"
+norboletone,A17,1,1,0,0,0,0,0,0,0,17α-metil 19-nor
+norethandrolone,A17,1,1,0,0,0,0,0,0,0,17α-etil 19-nor
+ethylestrenol,A17,1,1,0,0,0,0,0,0,0,17α-etil 19-nor
+bolasterone,A17,1,0,0,0,0,0,1,0,0,"7α,17α-diMe"
+desoxymethyltestosterone,A17,1,0,0,0,0,0,0,0,0,"Madol, Δ2 17α-metil"
+methasterone,A17,1,0,0,0,0,0,1,0,0,"2α,17α-diMe"
+epistane,A17,1,0,0,0,1,0,0,0,0,epitio 17α-metil
+17a-methylepithiostanol,A17,1,0,0,0,1,0,0,0,0,epitio 17α-metil
+stanozolol,A17,1,0,0,0,1,0,0,0,0,pirazol 17α-metil
+furazabol,A17,1,0,0,0,1,0,0,0,0,furazán 17α-metil
+mebolazine,A17,1,0,0,0,1,0,0,0,0,azina 17α-metil
+danazol,A17,1,0,0,0,1,0,0,0,0,17α-etinil isoxazol
+gestrinone,A17,1,1,0,1,0,0,0,0,0,"17α-etinil 19-nor Δ9,11"
+tibolone,A17,1,1,0,0,0,0,0,0,0,7α-Me 17α-etinil 19-nor
+tetrahydrogestrinone,A17,1,1,0,0,0,0,0,0,0,"THG, 13β,17α-dietil 19-nor"
+clostebol,HALO,0,0,0,0,0,1,0,0,0,4-Cl
+drostanolone,CMOD,0,0,0,0,0,0,1,0,0,2α-Me DHT
+mesterolone,CMOD,0,0,0,0,0,0,1,0,0,1α-Me DHT
+metenolone,CMOD,0,0,0,0,0,0,1,0,0,1-Me
+formebolone,CMOD,0,0,0,0,0,0,1,0,0,2-formil 11α-OH
+prostanozol,HET,0,0,0,0,1,0,0,0,0,pirazol sin 17α-metil
+quinbolone,OTHER,0,0,0,0,0,0,0,0,0,17-éter ciclopentenilo de boldenona
+testolactone,OTHER,0,0,0,0,0,0,0,0,0,"lactona, inhibidor de aromatasa"
+zeranol,OTHER,0,0,0,0,0,0,0,0,0,lactona macrocíclica (RAL)

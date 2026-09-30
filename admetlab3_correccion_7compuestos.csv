@@ -1,0 +1,8 @@
+compuesto,alquilado_17a,DILI_antes,DILI_ahora,Ames_antes,Ames_ahora,Carcino_antes,Carcino_ahora,hERG10uM_antes,hERG10uM_ahora,BSEP_antes,BSEP_ahora
+Danazol,True,0.919,0.014,0.154,0.134,0.877,0.934,0.59,0.827,1.0,1.0
+Epitestosterone,False,0.926,0.987,0.327,0.048,0.976,0.993,0.57,0.243,0.993,1.0
+Ethylestrenol,True,0.184,0.881,0.19,0.002,0.937,0.997,0.465,0.992,0.982,0.999
+Gestrinone,True,0.992,0.009,0.277,0.118,0.953,0.983,0.507,0.759,0.998,1.0
+Norethandrolone,True,0.21,0.959,0.314,0.035,0.961,0.995,0.474,0.902,0.986,1.0
+Testosterone,False,0.926,0.962,0.327,0.063,0.976,0.991,0.57,0.468,0.993,0.98
+Tibolone,True,0.411,0.018,0.223,0.005,0.943,0.998,0.439,0.913,0.999,1.0

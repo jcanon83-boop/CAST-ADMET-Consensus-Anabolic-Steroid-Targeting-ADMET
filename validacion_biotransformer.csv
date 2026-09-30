@@ -1,0 +1,25 @@
+Compuesto,Metabolito documentado (WADA),InChIKey de referencia,Coincidencia,Limitación probable
+Testosterone,Androsterone,QGXBDMJGAMFCBF-HLUDHZFRSA-N,No recuperado,≥2 pasos metabólicos
+Testosterone,Etiocholanolone,QGXBDMJGAMFCBF-BNSUEQOYSA-N,No recuperado,≥2 pasos metabólicos
+Testosterone,6β-Hydroxytestosterone,XSEGWEUVSZRCBC-ZVBLRVHNSA-N,No recuperado,CYP (módulo sin cobertura para esteroides)
+Testosterone,Testosterone glucuronide,NIKZPECGCSUSBV-HMAFJQTKSA-N,Exacta,
+Testosterone,Androstenedione,AEMFNILZOJDQLW-QAGGRKNESA-N,Exacta,
+Nandrolone,19-Norandrosterone,UOUIARGWRPHDBX-CQZDKXCPSA-N,No recuperado,≥2 pasos metabólicos
+Nandrolone,19-Noretiocholanolone,UOUIARGWRPHDBX-DHMVHTBWSA-N,No recuperado,≥2 pasos metabólicos
+Stanozolol,3'-Hydroxystanozolol,SWPAIUOYLTYQKK-YEZTZDHTSA-N,No recuperado,CYP (módulo sin cobertura para esteroides)
+Stanozolol,4β-Hydroxystanozolol,OCUSYXNRARMJHS-SUVJOWDWSA-N,Conectividad,
+Stanozolol,16β-Hydroxystanozolol,IZGBPAAEPVNBGA-BWPSUJIGSA-N,Conectividad,
+Methandienone,6β-Hydroxymethandienone,OBCJFTMGLMNCTJ-INIPNLRTSA-N,Conectividad,
+Methandienone,17-Epimethandienone,XWALNWXLMVGSFR-MPRNQXESSA-N,Conectividad,
+Boldenone,"Androsta-1,4-diene-3,17-dione (boldione)",LUJVUUWNAPIQQI-QAGGRKNESA-N,Exacta,
+Trenbolone,Epitrenbolone,MEHHPFQKXOUFFV-XDNAFOTISA-N,Conectividad,
+Trenbolone,Trendione,KBSXJBBFQODDTQ-RYRKJORJSA-N,Exacta,
+Oxandrolone,17-Epioxandrolone,QSLJIVKCVHQPLV-IWLBWFBKSA-N,No recuperado,≥2 pasos metabólicos
+Mesterolone,1α-Methyl-androsterone,UBSQZFBBZMBPFF-XHSSWRBBNA-N,No recuperado,≥2 pasos metabólicos
+Prasterone (DHEA),Androsterone,QGXBDMJGAMFCBF-HLUDHZFRSA-N,No recuperado,≥2 pasos metabólicos
+Prasterone (DHEA),Etiocholanolone,QGXBDMJGAMFCBF-BNSUEQOYSA-N,No recuperado,≥2 pasos metabólicos
+Prasterone (DHEA),5-Androstenediol,QADHLRWLCPCEKT-LOVVWNRFSA-N,Conectividad,
+Prasterone (DHEA),DHEA sulfate,CZWCKYRVOZZJNM-USOAJAOKSA-N,Exacta,
+Methyltestosterone,"17α-Methyl-5α-androstan-3α,17β-diol",QGKQXZFZOIQFBI-XSWYFRFISA-N,Conectividad,
+Metenolone,3α-Hydroxy-1-methylene-5α-androstan-17-one,YSEVFKWFUGTGAQ-MCMLKMLFNA-N,No recuperado,≥2 pasos metabólicos
+Fluoxymesterone,6β-Hydroxyfluoxymesterone,SAMKMXPGYNTUIZ-SIZAIIQISA-N,Conectividad,
